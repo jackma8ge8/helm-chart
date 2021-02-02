@@ -9,6 +9,6 @@ entries:
     name: pine
     type: application
     urls:
-    - https://yaohao9.github.com/helm-chart/pine-0.1.0.tgz
+    - https://jackma8ge8.github.com/helm-chart/pine-0.1.0.tgz
     version: 0.1.0
 generated: "2021-01-31T01:01:03.9107901+08:00"
